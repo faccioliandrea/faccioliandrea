@@ -25,11 +25,11 @@ As part of the **EMJM Imaging** program, I’m exploring advanced topics in imag
 ## 📚 Education
 
 - **Master’s in Computer Science and Engineering**  
-  Politecnico di Milano, Italy (2023–2025)  
+  Politecnico di Milano, Italy (2024–2026)  
   Specialization: Artificial Intelligence and Computer Vision
 
 - **Bachelor’s in Computer Engineering**  
-  Politecnico di Milano, Italy (2020–2023)
+  Politecnico di Milano, Italy (2021–2024)
 
 
 ---
