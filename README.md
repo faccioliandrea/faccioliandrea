@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Andrea Faccioli! 🚀
+# Andrea Faccioli
 
 ## 🎓 About Me
 
@@ -35,8 +35,6 @@ As part of the **EMJM Imaging** program, I’m exploring advanced topics in imag
 ---
 
 ## 📫 Let's Connect!
-
-I’m always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out to me via:
 
 - **Email**: [andrea.faccioli@mail.polimi.it](mailto:andrea.faccioli@mail.polimi.it)
 - **LinkedIn**: [Andrea Faccioli](https://www.linkedin.com/in/andreafaccioli/)
